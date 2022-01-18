@@ -1,0 +1,15 @@
+12.01.2022
+Emin
+
+3 csv files that contain resampled (50 Hz), vector-normed and median-normalized accelerometer data for each participant during the applause after Beethoven's piece.
+Extended by 2 seconds at both ends.
+
+beethoven_section_motion.csv
+	Contains motion data for each participant.
+
+beethoven_section_trimmed.csv
+	The trimmed version of the "beethoven_section_motion.csv".
+	For every participant, non-clapping time slots from both ends are filled with NaNs.
+
+beethoven_section_peaks.csv
+	Contains times and heights of selected peaks for every participant.

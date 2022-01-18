@@ -1,0 +1,27 @@
+03.01.2022
+Emin
+
+4 csv files that contain resampled (50 Hz), vector-normed and median-normalized accelerometer data for each participant during the final clapping section.
+Extended by 7 seconds at both ends.
+
+final_section_motion.csv
+	Contains motion data for each participant.
+
+final_section_trimmed.csv
+	The trimmed version of the "final_section_motion.csv".
+	For every participant, motionless time slots from both ends are filled with NaNs.
+
+final_section_peaks.csv
+	Contains times and heights of selected peaks for every participant.
+
+final_section_stats.csv
+	Contains some statistical information for the final clapping section.
+	start_time                : Starting time of individual clapping.
+	end_time                  : Ending time of individual clapping.
+	duration                  : Duration of individual clapping in seconds.
+	avr_rms_entire            : Average root mean square of the motion signal during the entire concert. (window size: 50, scrolling: 50)
+	avr_rms                   : Average root mean square of the individual clapping motion. (window size: 50, scrolling: 50)
+	mean                      : Mean of the motion individual clapping motion data.
+	median 		          : Median of the motion individual clapping motion data.
+	std                       : Standart deviation of the individual clapping motion data.
+	median_interclap_interval : Median of distances between signal peaks.
