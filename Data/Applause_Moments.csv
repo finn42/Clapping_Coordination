@@ -1,105 +1,105 @@
-Stream_Time,concert_time,Applause_N,Event,Event_Type
-945.9,-688.5,0,Musicians enter hall,Musician_act
-946.0,-688.4,0,Clapping Start,First_Clap
-963.0,-671.4,0,Musicians seated,Musician_act
-963.1,-671.3,0,Clapping End,Last_Clap
-1081.0,-553.4,1,Last word V,Speach
-1081.2,-553.2,1,Clapping Start,First_Clap
-1087.1,-547.3,1,Clapping End,Last_Clap
-1087.1,-547.3,1,MC starts talking,Speach
-1668.3,33.9,2,Clapping Start,First_Clap
-1668.3,33.9,2,Last word MC,Speach
-1675.0,40.6,2,Violinist pick up instrument ,Musician_act
-1677.7,43.3,2,Clapping End,Last_Clap
-3244.8,1610.4,3,Last Note,Music
-3246.1,1611.7,3,Silence,Music
-3247.8,1613.4,3,Clapping Start,First_Clap
-3248.0,1613.6,3,Musicians standing,Musician_act
-3264.0,1629.6,3,Start to leave stage,Musician_act
-3267.0,1632.6,3,Claps in synch,Audience_sync
-3279.4,1645.0,3,MC starts talking,Speach
-3289.1,1654.7,3,Clapping End,Last_Clap
-3641.9,2007.5,4,Clapping Start,First_Clap
-3641.9,2007.5,4,Musicians enter hall,Musician_act
-3651.0,2016.6,4,Begin to sit down,Musician_act
-3653.7,2019.3,4,Clapping End,Last_Clap
-4908.3,3273.9,5,Silence,Music
-4918.0,3283.6,5,Release instruments,Musician_act
-4919.8,3285.4,5,Clapping Start,First_Clap
-4936.0,3301.6,5,Start to leave stage,Musician_act
-4948.0,3313.6,5,Out of sight,Musician_act
-4957.0,3322.6,5,Musicians enter hall,Musician_act
-4958.0,3323.6,5,Claps in synch,Audience_sync
-4972.0,3337.6,5,Start to leave stage,Musician_act
-4980.0,3345.6,5,Out of sight,Musician_act
-4980.2,3345.8,5,Clapping End,Last_Clap
-6639.0,5004.6,6,Musicians enter hall,Musician_act
-6639.1,5004.7,6,Clapping Start,First_Clap
-6654.0,5019.6,6,Begin to sit down,Musician_act
-6656.8,5022.4,6,Clapping End,Last_Clap
-7648.2,6013.8,7,Last note,Music
-7649.6,6015.2,7,Silence,Music
-7655.0,6020.6,7,Release instruments,Musician_act
-7656.0,6021.6,7,Start to stand,Musician_act
-7656.9,6022.5,7,Clapping Start,First_Clap
-7670.0,6035.6,7,Musicians seated,Musician_act
-7678.3,6043.9,7,MC starts talking,Speach
-7679.0,6044.6,7,Clapping End,Last_Clap
-8394.1,6759.7,8,Last note,Music
-8396.0,6761.6,8,Release instruments,Musician_act
-8396.3,6761.9,8,Clapping Start,First_Clap
-8407.0,6772.6,8,Musicians all seated,Musician_act
-8413.8,6779.4,8,Clapping End,Last_Clap
-8414.0,6779.6,8,Violinist plays,Musician_act
-8569.1,6934.7,9,Last note,Music
-8570.0,6935.6,9,Start to stand,Musician_act
-8570.5,6936.1,9,Clapping Start,First_Clap
-8579.0,6944.6,9,Three musicians seated,Musician_act
-8586.0,6951.6,9,Violinist says Takk,Speach
-8590.1,6955.7,9,Clapping End,Last_Clap
-8590.1,6955.7,9,Violinist begins to speak,Speach
-8805.7,7171.3,10,Last note,Music
-8806.0,7171.6,10,Start to stand,Musician_act
-8807.1,7172.7,10,Clapping Start,First_Clap
-8818.0,7183.6,10,Three musicians seated,Musician_act
-8826.0,7191.6,10,Violinist lit at mic,Speach
-8826.5,7192.1,10,Clapping End,Last_Clap
-8827.3,7192.9,10,Violinist begins to speak,Speach
-9159.2,7524.8,11,Last note,Music
-9164.7,7530.3,11,Silence,Music
-9174.0,7539.6,11,Release instruments,Musician_act
-9174.6,7540.2,11,Clapping Start,First_Clap
-9178.0,7543.6,11,Musicians all standing,Musician_act
-9190.0,7555.6,11,Violinist lit at mic,Speach
-9190.4,7556.0,11,Clapping End,Last_Clap
-9191.3,7556.9,11,Violinist begins to speak,Speach
-9381.1,7746.7,12,Last note,Music
-9385.0,7750.6,12,Release instruments,Musician_act
-9385.5,7751.1,12,Clapping Start,First_Clap
-9386.0,7751.6,12,Musicians standing,Musician_act
-9397.0,7762.6,12,Violinist lit at mic,Speach
-9399.1,7764.7,12,Clapping End,Last_Clap
-9400.1,7765.7,12,Violinist begins to speak,Speach
-9407.1,7772.7,13,Last word V,Speach
-9407.7,7773.3,13,Violinist Step away,Speach
-9408.8,7774.4,13,Clapping Start,First_Clap
-9412.6,7778.2,13,MC starts talking,Speach
-9413.8,7779.4,13,Clapping End,Last_Clap
-9678.5,8044.1,14,Last note,Music
-9679.5,8045.1,14,Clapping Start,First_Clap
-9680.0,8045.6,14,Musicians all standing,Musician_act
-9684.0,8049.6,14,Bow 1,Musician_act
-9691.0,8056.6,14,Bow 2,Musician_act
-9697.7,8063.3,14,Claps begin to sync,Audience_sync
-9699.0,8064.6,14,Remove equipement,Musician_act
-9701.3,8066.9,14,Claps in synch,Audience_sync
-9713.0,8078.6,14,Bow 3,Musician_act
-9723.0,8088.6,14,Bow 4,Musician_act
-9726.0,8091.6,14,Start to leave stage,Musician_act
-9733.0,8098.6,14,Out of sight,Musician_act
-9750.0,8115.6,14,Musicians enter hall,Musician_act
-9757.0,8122.6,14,Bow 5,Musician_act
-9774.0,8139.6,14,Bow 6,Musician_act
-9776.0,8141.6,14,Start to leave stage,Musician_act
-9783.0,8148.6,14,Out of sight,Musician_act
-9786.5,8152.06,14,Clapping End,Last_Clap
+Stream_Time,concert_time,Applause_N,Event,Event_Type,Sequence
+945.9,-693.3,0,Musicians enter hall,Musician_act,0
+946.0,-693.2,0,Clapping Start,First_Clap,0.1
+963.0,-676.2,0,Musicians seated,Musician_act,17
+963.1,-676.2,0,Clapping End,Last_Clap,0.088
+1081.0,-558.2,1,Last word V,Speach,117.936
+1081.2,-558.1,1,Clapping Start,First_Clap,0.166
+1087.1,-552.2,1,Clapping End,Last_Clap,5.89
+1087.1,-552.2,1,MC starts talking,Speach,0
+1668.3,29.1,2,Clapping Start,First_Clap,581.22
+1668.3,29.1,2,Last word MC,Speach,0
+1675.0,35.8,2,Violinist pick up instrument ,Musician_act,6.7
+1677.7,38.5,2,Clapping End,Last_Clap,2.7
+3244.8,1605.5,3,Last note,Music,1567.052
+3246.1,1606.9,3,Silence,Music,1.368
+3247.8,1608.5,3,Clapping Start,First_Clap,1.634666667
+3248.0,1608.8,3,Musicians standing,Musician_act,0.245333333
+3264.0,1624.8,3,Start to leave stage,Musician_act,16
+3267.0,1627.7,3,Claps in synch,Audience_sync,2.97
+3279.4,1640.2,3,MC starts talking,Speach,12.44333333
+3289.1,1649.9,3,Clapping End,Last_Clap,9.696666667
+3641.9,2002.7,4,Clapping Start,First_Clap,352.79
+3641.9,2002.7,4,Musicians enter hall,Musician_act,0
+3651.0,2011.8,4,Begin to sit down,Musician_act,9.1
+3653.7,2014.5,4,Clapping End,Last_Clap,2.7
+4908.3,3269.1,5,Silence,Music,1254.6
+4918.0,3278.8,5,Release instruments,Musician_act,9.7
+4919.8,3280.6,5,Clapping Start,First_Clap,1.8
+4936.0,3296.8,5,Start to leave stage,Musician_act,16.2
+4948.0,3308.8,5,Out of sight,Musician_act,12
+4957.0,3317.8,5,Musicians enter hall,Musician_act,9
+4958.0,3318.8,5,Claps in synch,Audience_sync,1
+4972.0,3332.8,5,Start to leave stage,Musician_act,14
+4980.0,3340.8,5,Out of sight,Musician_act,8
+4980.2,3341.0,5,Clapping End,Last_Clap,0.2
+6639.0,4999.8,6,Musicians enter hall,Musician_act,1658.8
+6639.1,4999.9,6,Clapping Start,First_Clap,0.14
+6654.0,5014.8,6,Begin to sit down,Musician_act,14.86
+6656.8,5017.6,6,Clapping End,Last_Clap,2.8
+7648.2,6009.0,7,Last note,Music,991.4
+7649.6,6010.4,7,Silence,Music,1.4
+7655.0,6015.8,7,Release instruments,Musician_act,5.4
+7656.0,6016.8,7,Start to stand,Musician_act,1
+7656.9,6017.7,7,Clapping Start,First_Clap,0.9
+7670.0,6030.8,7,Musicians seated,Musician_act,13.1
+7678.3,6039.1,7,MC starts talking,Speach,8.3
+7679.0,6039.8,7,Clapping End,Last_Clap,0.72
+8394.1,6754.9,8,Last note,Music,715.08
+8396.0,6756.8,8,Release instruments,Musician_act,1.9
+8396.3,6757.1,8,Clapping Start,First_Clap,0.3
+8407.0,6767.8,8,Musicians all seated,Musician_act,10.7
+8413.8,6774.6,8,Clapping End,Last_Clap,6.8
+8414.0,6774.8,8,Violinist plays,Musician_act,0.2
+8569.1,6929.9,9,Last note,Music,155.1
+8570.0,6930.8,9,Start to stand,Musician_act,0.9
+8570.5,6931.3,9,Clapping Start,First_Clap,0.5
+8579.0,6939.8,9,Three musicians seated,Musician_act,8.5
+8586.0,6946.8,9,Violinist says Takk,Speach,7
+8590.1,6950.8,9,Clapping End,Last_Clap,4.07
+8590.1,6950.8,9,Violinist begins to speak,Speach,0
+8805.7,7166.5,10,Last note,Music,215.63
+8806.0,7166.8,10,Start to stand,Musician_act,0.3
+8807.1,7167.9,10,Clapping Start,First_Clap,1.14
+8818.0,7178.8,10,Three musicians seated,Musician_act,10.86
+8826.0,7186.8,10,Violinist lit at mic,Speach,8
+8826.5,7187.3,10,Clapping End,Last_Clap,0.5
+8827.3,7188.1,10,Violinist begins to speak,Speach,0.8
+9159.2,7520.0,11,Last note,Music,331.9
+9164.7,7525.5,11,Silence,Music,5.5
+9174.0,7534.8,11,Release instruments,Musician_act,9.3
+9174.6,7535.4,11,Clapping Start,First_Clap,0.6
+9178.0,7538.8,11,Musicians all standing,Musician_act,3.4
+9190.0,7550.8,11,Violinist lit at mic,Speach,12
+9190.4,7551.1,11,Clapping End,Last_Clap,0.36
+9191.3,7552.1,11,Violinist begins to speak,Speach,0.94
+9381.1,7741.9,12,Last note,Music,189.79
+9385.0,7745.8,12,Release instruments,Musician_act,3.91
+9385.5,7746.3,12,Clapping Start,First_Clap,0.49
+9386.0,7746.8,12,Musicians standing,Musician_act,0.51
+9397.0,7757.8,12,Violinist lit at mic,Speach,11
+9399.1,7759.9,12,Clapping End,Last_Clap,2.11
+9400.1,7760.9,12,Violinist begins to speak,Speach,0.99
+9407.1,7767.9,13,Last word V,Speach,7.03
+9407.7,7768.5,13,Violinist Step away,Speach,0.57
+9408.8,7769.6,13,Clapping Start,First_Clap,1.1
+9412.6,7773.4,13,MC starts talking,Speach,3.8
+9413.8,7774.6,13,Clapping End,Last_Clap,1.2
+9678.5,8039.3,14,Last note,Music,264.7
+9679.5,8040.3,14,Clapping Start,First_Clap,0.99
+9680.0,8040.8,14,Musicians all standing,Musician_act,0.51
+9684.0,8044.8,14,Bow 1,Musician_act,4
+9691.0,8051.8,14,Bow 2,Musician_act,7
+9697.7,8058.5,14,Claps begin to sync,Audience_sync,6.7
+9699.0,8059.8,14,Remove equipement,Musician_act,1.3
+9701.3,8062.1,14,Claps in synch,Audience_sync,2.3
+9713.0,8073.8,14,Bow 3,Musician_act,11.7
+9723.0,8083.8,14,Bow 4,Musician_act,10
+9726.0,8086.8,14,Start to leave stage,Musician_act,3
+9733.0,8093.8,14,Out of sight,Musician_act,7
+9750.0,8110.8,14,Musicians enter hall,Musician_act,17
+9757.0,8117.8,14,Bow 5,Musician_act,7
+9774.0,8134.8,14,Bow 6,Musician_act,17
+9776.0,8136.8,14,Start to leave stage,Musician_act,2
+9783.0,8143.8,14,Out of sight,Musician_act,7
+9786.5,8147.3,14,Clapping End,Last_Clap,3.46
