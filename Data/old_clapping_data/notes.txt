@@ -1,0 +1,21 @@
+21.01.2022
+Emin
+
+This folder contains resampled (50 Hz), vector-normed and median-normalized accelerometer data of participants recorded during the clapping sections of MusicLab copenhagen concert.
+
+clapping_data
+│
+├───clapping_motion
+│   └─── 15 csv files for each clapping section. csv files contain motion data of participants from first to last hearable clap in the concert hall.
+│
+├───clapping_trimmed
+│   └─── 15 csv files for each clapping section. These files are trimmed versions of the ones in "/clapping_motion".
+│        For every participant, non-clapping time slots from both ends are filled with NaNs.
+│
+├───clapping_peaks
+│   └─── 15 csv files for each clapping section. Each file contains times and heights of selected peaks (claps) for each participant.
+│
+├───clapping_events.csv
+│  └─── Contains details about clapping sections.
+│
+└───notes.txt

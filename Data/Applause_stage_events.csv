@@ -1,0 +1,162 @@
+concert_time,Applause_N,Event,Actor,Event_Type,Montage_time,Stream_time,Stream_Time_old,concert_time_old
+-692.4,1,Analysis,Montage,seg,0,1294,,
+-689.4,1,Musicians enter hall,Musicians,Stage_act,3,1297,945.9,-688.5
+-688.4,1,Clapping Start,Audience,First_Clap,4,1298,946,-688.4
+-678.4,1,Bow,Musicians,Stage_act,14,1308,,
+-674.4,1,Musician toward mic,Musicians,Stage_act,18,1312,961,-673.4
+-674.4,1,Sit,Musicians,Stage_act,18,1312,,
+-672.4,1,Clapping End,Audience,Last_Clap,20,1314,963.1,-671.3
+-671.4,1,At microphone,Musicians,Stage_act,21,1315,,
+-670.4,1,Start to speak,Musicians,Stage_act,22,1316,,
+-556.4,2,Analysis,Montage,seg,25,1430,,
+-554.4,2,Last word V,Musicians,Stage_act,27,1432,1081,-553.4
+-553.4,2,Clapping Start,Audience,First_Clap,28,1433,1081.2,-553.2
+-550.4,2,MC towards mic,MC,Stage_act,31,1436,1084.1,-550.3
+-549.4,2,MC at Mic,MC,Stage_act,32,1437,,
+-547.4,2,MC starts talking,MC,Stage_act,34,1439,1087.1,-547.3
+-546.4,2,Clapping End,Audience,Last_Clap,35,1440,1087.1,-547.3
+31.6,3,Analysis,Montage,seg,41,2018,,
+33.6,3,Clapping Start,Audience,First_Clap,43,2020,1668.3,33.9
+33.6,3,Last word MC,MC,Stage_act,43,2020,1668.3,33.9
+40.6,3,Violinist pick up instrument,Musicians,Stage_act,50,2027,1675,40.6
+42.6,3,Clapping End,Audience,Last_Clap,52,2029,1677.7,43.3
+1609.6,4,Analysis,Montage,seg,57,3596,,
+1610.6,4,Last Note,Music,Stage_act,58,3597,3244.8,1610.4
+1611.6,4,Silence,Music,Stage_act,59,3598,3246.1,1611.7
+1612.6,4,Release instruments,Musicians,Stage_act,60,3599,3247,1612.6
+1613.6,4,Clapping Start,Audience,First_Clap,61,3600,3247.8,1613.4
+1613.6,4,Musicians standing,Musicians,Stage_act,61,3600,3248,1613.6
+1618.6,4,bow,Musicians,Stage_act,66,3605,,
+1626.6,4,bow,Musicians,Stage_act,74,3613,,
+1629.6,4,Start to leave stage,Musicians,Stage_act,77,3616,3264,1629.6
+1632.6,4,Claps in synch,Audience,Audience_sync,80,3619,3267,1632.6
+1641.6,4,Off stage,Musicians,Stage_act,89,3628,,
+1644.6,4,MC starts talking,MC,Stage_act,92,3631,3279.4,1645
+1654.6,4,Clapping End,Audience,Last_Clap,102,3641,3289.1,1654.7
+2003.6,5,Analysis,Montage,seg,107,3990,,
+2009.6,5,Clapping Start,Audience,First_Clap,113,3996,3641.9,2007.5
+2009.6,5,Musicians enter hall,Musicians,Stage_act,113,3996,3641.9,2007.5
+2015.6,5,bow,Musicians,Stage_act,119,4002,,
+2017.6,5,Begin to sit down,Musicians,Stage_act,121,4004,3651,2016.6
+2019.6,5,Clapping End,Audience,Last_Clap,123,4006,3653.7,2019.3
+3264.6,6,Analysis,Montage,seg,127,5251,,
+3271.6,6,Silence,Music,Stage_act,134,5258,4908.3,3273.9
+3283.6,6,Release instruments,Musicians,Stage_act,146,5270,4918,3283.6
+3285.6,6,Clapping Start,Audience,First_Clap,148,5272,4919.8,3285.4
+3287.6,6,Stand,Musicians,Stage_act,150,5274,,
+3297.6,6,bow,Musicians,Stage_act,160,5284,,
+3302.6,6,Start to leave stage,Musicians,Stage_act,165,5289,4936,3301.6
+3307.6,6,Claps in synch,Audience,Audience_sync,170,5294,4941.8,3307.4
+3311.6,6,Off stage,Musicians,Stage_act,174,5298,4948,3313.6
+3322.6,6,Claps in synch,Audience,Audience_sync,185,5309, ,3321.6
+3322.6,6,Musicians enter hall,Musicians,Stage_act,185,5309,4957,3322.6
+3330.6,6,bow,Musicians,Stage_act,193,5317,,
+3336.6,6,bow,Musicians,Stage_act,199,5323,,
+3339.6,6,Start to leave stage,Musicians,Stage_act,202,5326,4972,3337.6
+3345.6,6,Clapping End,Audience,Last_Clap,208,5332,4980.2,3345.8
+3345.6,6,Off stage,Musicians,Stage_act,208,5332,4980,3345.6
+3345.6,6,MC towards mic,MC,Stage_act,208,5332,,
+3347.6,6,MC at mic,MC,Stage_act,210,5334,,
+5003.6,7,Analysis,Montage,seg,212,6990,,
+5005.6,7,Clapping Start,Audience,First_Clap,214,6992,6639.1,5004.7
+5005.6,7,Musicians enter hall,Musicians,Stage_act,214,6992,6639,5004.6
+5013.6,7,bow,Musicians,Stage_act,222,7000,,
+5018.6,7,Begin to sit down,Musicians,Stage_act,227,7005,6654,5019.6
+5021.6,7,Clapping End,Audience,Last_Clap,230,7008,6656.8,5022.4
+5022.6,7,MC starts talking,MC,Stage_act,231,7009,,
+6009.6,8,Analysis,Montage,seg,237,7996,,
+6013.6,8,Last note,Music,Stage_act,241,8000,7648.2,6013.8
+6015.6,8,Silence,Music,Stage_act,243,8002,7649.6,6015.2
+6020.6,8,Release instruments,Musicians,Stage_act,248,8007,7655,6020.6
+6022.6,8,Clapping Start,Audience,First_Clap,250,8009,7656.9,6022.5
+6022.6,8,Start to stand,Musicians,Stage_act,250,8009,7656,6021.6
+6028.6,8,bow,Musicians,Stage_act,256,8015, ,
+6035.6,8,Musicians start to sit,Musicians,Stage_act,263,8022,7670,6035.6
+6039.6,8,MC towards mic,Musicians,Stage_act,267,8026,7674.3,6039.9
+6043.6,8,MC at mic,MC,Stage_act,271,8030,,
+6044.6,8,Clapping End,Audience,Last_Clap,272,8031,7679,6044.6
+6044.6,8,MC starts talking,MC,Stage_act,272,8031,7678.3,6043.9
+6754.6,9,Analysis,Montage,seg,273,8741,,
+6759.6,9,Last note,Music,Stage_act,278,8746,8394.1,6759.7
+6761.6,9,Clapping Start,Audience,First_Clap,280,8748,8396.3,6761.9
+6761.6,9,Release instruments,Musicians,Stage_act,280,8748,8396,6761.6
+6762.6,9,Start to stand,Musicians,Stage_act,281,8749,,
+6765.6,9,bow,Musicians,Stage_act,284,8752,,
+6769.6,9,Musicians start to sit,Musicians,Stage_act,288,8756,8407,6772.6
+6776.6,9,Violinist ready to play,Musicians,Stage_act,295,8763,8410,6775.6
+6778.6,9,Clapping End,Audience,Last_Clap,297,8765,8413.8,6779.4
+6779.6,9,Violinist plays,Musicians,Stage_act,298,8766,8414,6779.6
+6931.6,10,Analysis,Montage,seg,303,8918,,
+6934.6,10,Last note,Music,Stage_act,306,8921,8569.1,6934.7
+6935.6,10,Clapping Start,Audience,First_Clap,307,8922,8570.5,6936.1
+6935.6,10,Start to stand,Musicians,Stage_act,307,8922,8570,6935.6
+6939.6,10,bow,Musicians,Stage_act,311,8926,,
+6942.6,10,Three musicians start to sit,Musicians,Stage_act,314,8929,8579,6944.6
+6942.6,10,Violinist towards mic,Musicians,Stage_act,314,8929,,
+6948.6,10,Violinist at mic,Musicians,Stage_act,320,8935,,
+6949.6,10,Violinist says Takk,Musicians,Stage_act,321,8936,8586,6951.6
+6955.6,10,Clapping End,Audience,Last_Clap,327,8942,8590.1,6955.7
+6955.6,10,Violinist begins to speak,Musicians,Stage_act,327,8942,8590.1,6955.7
+7167.6,11,Analysis,Montage,seg,329,9154,,
+7170.6,11,Last note,Music,Stage_act,332,9157,8805.7,7171.3
+7172.6,11,Clapping Start,Audience,First_Clap,334,9159,8807.1,7172.7
+7172.6,11,Start to stand,Musicians,Stage_act,334,9159,8806,7171.6
+7177.6,11,Bow,Musicians,Stage_act,339,9164,,
+7181.6,11,Three musicians seated,Musicians,Stage_act,343,9168,8818,7183.6
+7184.6,11,Violinist towards mic,Musicians,Stage_act,346,9171,8820,7185.6
+7190.6,11,Violinist at mic,Musicians,Stage_act,352,9177,,
+7191.6,11,Clapping End,Audience,Last_Clap,353,9178,8826.5,7192.1
+7192.6,11,Violinist begins to speak,Musicians,Stage_act,354,9179,8827.3,7192.9
+7522.6,12,Analysis,Montage,seg,355,9509,,
+7525.6,12,Last note,Music,Stage_act,358,9512,9159.2,7524.8
+7532.6,12,Silence,Music,Stage_act,365,9519,9164.7,7530.3
+7537.6,12,Release instruments,Musicians,Stage_act,370,9524,9174,7539.6
+7540.6,12,Clapping Start,Audience,First_Clap,373,9527,9174.6,7540.2
+7541.6,12,Musicians all standing,Musicians,Stage_act,374,9528,9178,7543.6
+7546.6,12,Bow,Musicians,Stage_act,379,9533,,
+7547.6,12,Three musicians start to sit,Musicians,Stage_act,380,9534,,
+7552.6,12,Violinist toward mic,Musicians,Stage_act,385,9539,9186,7552.6
+7555.6,12,Clapping End,Audience,Last_Clap,388,9542,9190.4,7556
+7555.6,12,Violinist at mic,Musicians,Stage_act,388,9542,,
+7556.6,12,Violinist begins to speak,Musicians,Stage_act,389,9543,9191.3,7556.9
+7744.6,13,Analysis,Montage,seg,390,9731,,
+7744.6,13,Last note,Music,Stage_act,390,9731,9381.1,7746.7
+7747.6,13,Silence,Music,Stage_act,393,9734,,
+7750.6,13,Release instruments,Musicians,Stage_act,396,9737,9385,7750.6
+7751.6,13,Clapping Start,Audience,First_Clap,397,9738,9385.5,7751.1
+7751.6,13,Start to stand,Musicians,Stage_act,397,9738,,
+7755.6,13,bow,Musicians,Stage_act,401,9742,,
+7759.6,13,Violinist toward mic,Musicians,Stage_act,405,9746,9394,7759.6
+7759.6,13,Start to sit,Musicians,Stage_act,405,9746,,
+7762.6,13,Violinist at mic,Musicians,Stage_act,408,9749,,
+7764.6,13,Clapping End,Audience,Last_Clap,410,9751,9399.1,7764.7
+7765.6,13,Violinist begins to speak,Musicians,Stage_act,411,9752,9400.1,7765.7
+7766.6,14,Analysis,Montage,seg,412,9753,,
+7773.6,14,Last word V,Musicians,Stage_act,419,9760,9407.1,7772.7
+7774.6,14,Violinist Step away,Musicians,Stage_act,420,9761,9407.7,7773.3
+7776.6,14,MC towards mic,MC,Stage_act,422,9763,,
+7777.6,14,Clapping Start,Audience,First_Clap,423,9764,9408.8,7774.4
+7780.6,14,MC starts talking,MC,Stage_act,426,9767,9412.6,7778.2
+7781.6,14,Clapping End,Audience,Last_Clap,427,9768,9413.8,7779.4
+8039.6,15,Analysis,Montage,seg,432,10026,,
+8044.6,15,Last note,Music,Stage_act,437,10031,9678.5,8044.1
+8045.6,15,Clapping Start,Audience,First_Clap,438,10032,9679.5,8045.1
+8045.6,15,Musicians start to stand,Musicians,Stage_act,438,10032,,
+8046.6,15,Musicians all standing,Musicians,Stage_act,439,10033,9680,8045.6
+8049.6,15,Bow 1,Musicians,Stage_act,442,10036,9684,8049.6
+8056.6,15,Bow 2,Musicians,Stage_act,449,10043,9691,8056.6
+8062.6,15,Turn for de-equip,Musicians,Stage_act,455,10049,,
+8065.6,15,Claps begin to sync,Audience,Audience_sync,458,10052,9697.7,8063.3
+8065.6,15,De-equiping,Musicians,Stage_act,458,10052,,
+8069.6,15,Claps in synch,Audience,Audience_sync,462,10056,9701.3,8066.9
+8078.6,15,Bow 3,Musicians,Stage_act,471,10065,9713,8078.6
+8088.6,15,Bow 4,Musicians,Stage_act,481,10075,9723,8088.6
+8091.6,15,Start to leave stage,Musicians,Stage_act,484,10078,9726,8091.6
+8101.6,15,Off stage,Musicians,Stage_act,494,10088,9733,8098.6
+8113.6,15,Musicians enter hall,Musicians,Stage_act,506,10100,9750,8115.6
+8122.6,15,Bow 5,Musicians,Stage_act,515,10109,9757,8122.6
+8132.6,15,Bring up MC,MC,Stage_act,525,10119,,
+8139.6,15,Bow 6,Musicians,Stage_act,532,10126,9774,8139.6
+8142.6,15,Start to leave stage,Musicians,Stage_act,535,10129,9776,8141.6
+8148.6,15,Out of sight,Musicians,Stage_act,541,10135,9783,8148.6
+8152.6,15,Clapping End,Audience,Last_Clap,545,10139,9786.5,8152.06
